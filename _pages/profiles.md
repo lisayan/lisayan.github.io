@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /pageant coaching/
+title: pageant coaching
+description: San Francisco's top pageant coach for ambitious women.
 nav: true
 nav_order: 7
 
